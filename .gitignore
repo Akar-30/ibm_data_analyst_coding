@@ -1,2 +1,7 @@
 .venv/
 cheat_code_materials/
+*.pptx
+*.sqlite
+*.xls
+*.xlsx
+*.csv
